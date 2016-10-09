@@ -1,0 +1,16 @@
+{
+	"name": "Testing Project",
+	"version": "0.0.1",
+	"main": "js/testing.js",
+	"ignore": [
+		".bowerrc",
+		".gitignore",
+		"gulpfire.js",
+		"node_modules"
+	],
+	"dependencies": {
+	},
+	"devDependecies": {
+	}
+	
+}
