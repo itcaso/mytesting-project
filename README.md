@@ -1,4 +1,4 @@
-# ${1:Testing Project}
+# Testing Project
 TODO: Write a project description
 
 ## Installation
