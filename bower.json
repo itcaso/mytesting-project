@@ -1,16 +1,11 @@
 {
-	"name": "Testing Project",
-	"version": "0.0.1",
-	"main": "js/testing.js",
-	"ignore": [
-		".bowerrc",
-		".gitignore",
-		"gulpfire.js",
-		"node_modules"
-	],
-	"dependencies": {
-	},
-	"devDependecies": {
-	}
-	
+  "name": "testing-project",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.0"
+  }
 }
